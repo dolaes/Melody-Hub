@@ -28,7 +28,7 @@ Welcome to **MelodyHub**, your ultimate destination for discovering and sharing 
 To get started with **MelodyHub**, follow these steps:
 
 1. **Visit the MelodyHub Website**:  
-   Please follow this link to visit the MelodyHub website: https://group-2-project.onrender.com/
+   Please follow this link to visit the MelodyHub website: https://melody-hub-8vai.onrender.com
 
 2. **Login or Create a New Account**:  
    If you have used **MelodyHub** before, please log in with your credentials. If you are new, create an account using your desired username, email, and password.
@@ -86,5 +86,5 @@ Starter code provided by UCI Software Engineering Boot Camp.
 
 ## Links
 
-- **GitHub Repository**: https://github.com/CyrusEsfahani/group-2-project
-- **Render Deployment**: https://group-2-project.onrender.com/
+- **GitHub Repository**: https://github.com/dolaes/Melody-Hub
+- **Render Deployment**: https://melody-hub-8vai.onrender.com
